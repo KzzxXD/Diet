@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO", "ADO\ADO.csproj", "{1DC9151D-8382-460C-BB59-B7147AE94841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.BL", "ADO.BL\ADO.BL.csproj", "{7369D12F-BB2E-436E-83A6-BEA371DD0503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC9151D-8382-460C-BB59-B7147AE94841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC9151D-8382-460C-BB59-B7147AE94841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC9151D-8382-460C-BB59-B7147AE94841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC9151D-8382-460C-BB59-B7147AE94841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7369D12F-BB2E-436E-83A6-BEA371DD0503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7369D12F-BB2E-436E-83A6-BEA371DD0503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7369D12F-BB2E-436E-83A6-BEA371DD0503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7369D12F-BB2E-436E-83A6-BEA371DD0503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {820E3031-8A90-4122-991F-7BFA1771AF62}
+	EndGlobalSection
+EndGlobal
